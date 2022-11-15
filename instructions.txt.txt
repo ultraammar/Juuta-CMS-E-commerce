@@ -1,0 +1,27 @@
+-> Note: Created mostly as soloist without copypasting from Internet, by Ammar Waheed.
+
+
+INSTRUCTIONS:
+-> Place both the folders inside your www of XAMPP/WAMP.
+
+-> This website is accessed through the juta-v1_ammar/index.php, even the Admin panel gets logged in through it.
+
+-> The users table contains login details for only one Admin so far, called "AdminAmmar" which was created 
+   and referred statically as Admin. More new admin creation is temporarily not included.
+
+-> The users table can contain multiple registrations of users, and they can be used to login on the website.
+
+-> Most of the stuff you see on the index.php is editable through the Admin panel, banners, shoes, updating the shoes, changing the weekly products, adding categories and so on. 
+
+-> Validations are put into place to block wrong file input types instead of .jpgs
+
+-> In case you're busy to look at the database table for login details of Admin, here:
+   username: "AdminAmmar"
+   password: "ammar"
+
+-> For a user testing account, heres the login details.
+   username: "ultraammar"
+   password: "ammar"
+
+
+-> I hope you like this Web Application as much as I did making it. ^_^
